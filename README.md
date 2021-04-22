@@ -1,2 +1,2 @@
 # cv
-My first cv on web using html 
+My first simple cv on web using html 
